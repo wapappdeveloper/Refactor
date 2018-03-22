@@ -8,3 +8,15 @@ I just reformed the structure by the past angular-1 version code.
 
 Thanks,
 Lional. J.
+
+Steps to see the output:
+
+1) Clone the repo https://github.com/wapappdeveloper/Refactor.git
+
+2) navigate to the folder.
+
+3) Open cmd or GIT Bash Window.
+
+4) npm install
+
+5) ng serve --open
